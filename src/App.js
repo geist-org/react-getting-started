@@ -1,5 +1,5 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+import './App.css'
 import { Card, Code, Note, Spacer } from '@zeit-ui/react'
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <Note type="success">This note details something important.</Note>
       </Card>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
