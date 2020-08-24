@@ -1,12 +1,12 @@
 import React from 'react'
 import './App.css'
-import { Card, Code, Note, Spacer } from '@zeit-ui/react'
+import { Card, Code, Note, Spacer } from '@geist-ui/react'
 
 function App() {
   return (
     <div className="app">
       <Card>
-        hello, world. I am using <Code>@zeit-ui/react</Code> !
+        hello, world. I am using <Code>@geist-ui/react</Code> !
       </Card>
       <Spacer y={1.5} />
       <Card shadow>
