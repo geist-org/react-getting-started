@@ -1,4 +1,4 @@
-## Getting started for ZEIT UI React
+## Getting started for Geist UI React
 
 ### Guide
 
