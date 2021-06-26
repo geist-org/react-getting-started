@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './App'
+import App from './app'
 import { GeistProvider, CssBaseline } from '@geist-ui/react'
 
 ReactDOM.render(

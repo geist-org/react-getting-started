@@ -1,9 +1,22 @@
-## Getting started for Geist UI React
+# CRA demo for Geist UI
 
-### Guide
+## Getting Started
 
-1. Clone: `git clone git@github.com:geist-org/react-getting-started.git`
-2. Install deps: `npm i` or `yarn`
-3. Start: `npm start` or `yarn start`
+First, run the development server:
 
-<br/>
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `src/app.js`. The page auto-updates as you edit the file.
+
+## Learn More
+
+To learn more about CRA, take a look at the following resources:
+
+- [create-react-app](https://create-react-app.dev/docs/getting-started) - learn about create React App
+- [customize-cra](https://github.com/arackaf/customize-cra) - Learn how to customize the configs of the CRA

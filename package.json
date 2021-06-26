@@ -1,22 +1,21 @@
 {
-  "name": "react-getting-started",
+  "name": "geist-ui-cra",
   "version": "0.1.0",
+  "license": "MIT",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "dev": "react-scripts start",
+    "build": "react-scripts build"
   },
   "prettier": "@geist-ui/prettier-config",
   "dependencies": {
-    "@geist-ui/react": "latest",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "^4.0.2"
+    "@geist-ui/react": "^2.2.0-rc.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
   },
   "devDependencies": {
     "@geist-ui/prettier-config": "^1.0.1",
-    "prettier": "^2.0.5"
+    "prettier": "^2.3.2"
   },
   "browserslist": {
     "production": [
